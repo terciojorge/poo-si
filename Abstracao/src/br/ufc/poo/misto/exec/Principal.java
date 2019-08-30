@@ -10,7 +10,7 @@ public class Principal {
 		aluno.setNome("aluno");
 		aluno.setIra(6.1);
 		aluno.setCurso("ES");
-		aluno.setIdade(18);
+		aluno.setIdade(19);
 		System.out.println("O nome do aluno:");
 		System.out.println(aluno.getNome());
 		System.out.println(aluno);
